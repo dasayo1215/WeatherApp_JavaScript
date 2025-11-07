@@ -1,7 +1,7 @@
 # WeatherApp_JavaScript
 
-- OpenWeather API を利用し、指定した都市の現在天気と3時間ごとの予報を取得・表示するアプリです。
-- async/await による非同期通信とクラス設計で、データ処理とUI表示を分離しています。
+OpenWeather API を利用し、指定した都市の現在天気と3時間ごとの予報を取得・表示するアプリです。<br>
+async/await による非同期通信とクラス設計で、データ処理とUI表示を分離しています。
 
 ## 🔗 動作デモ＆ソースコード（StackBlitzで開く）
 [https://stackblitz.com/edit/vitejs-vite-9r4ridqs](https://stackblitz.com/edit/vitejs-vite-9r4ridqs)
